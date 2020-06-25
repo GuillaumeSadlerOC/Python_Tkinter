@@ -1,5 +1,5 @@
 <p align="center">
-    <img width=100% src="https://github.com/GRELDAS/Tkinter-substitute-products/blob/master/static/github/project-name.png">
+    <img width=100% src="https://github.com/GuillaumeSadlerOC/Python_Tkinter/blob/master/static/github/project-name.png">
 </p>
 
 ![Python](https://img.shields.io/badge/Python-3.6-blue.svg)
