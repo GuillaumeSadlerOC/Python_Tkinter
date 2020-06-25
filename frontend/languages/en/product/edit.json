@@ -1,0 +1,44 @@
+{
+    "view_name": "Product Edit",
+
+    "row_0":{
+        "view_title" : "Product Edit"
+    },
+
+    "row_1":{
+        "product_name" : "Product name"
+    }
+    ,
+
+    "row_2":{
+        "product_stores" : "Stores"
+    },
+
+    "row_3":{
+        "product_nutriscore" : "Nutriscore"
+    },
+
+    "row_4":{
+        "product_img_url" : "Product image (URL)"
+    },
+
+    "row_5":{
+        "product_kcal" : "Kcal"
+    },
+
+    "row_6":{
+        "product_kj" : "KJ"
+    },
+
+    "row_7":{
+        "product_sugar" : "Sugar"
+    },
+
+    "row_8":{
+        "product_brand" : "Brand"
+    },
+
+    "row_9":{
+        "submit_button" : "Validate the changes"
+    }
+}

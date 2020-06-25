@@ -1,0 +1,31 @@
+{
+    "main_menu":{
+        "label": ":::",
+        "Home": "Accueil",
+        "settings": "Paramètres",
+        "sign_out": "Se déconnecter",
+        "exit": "Quitter"
+    },
+
+    "search_menu":{
+        "label": "Recherche",
+        "research": "Nouvelle recherche",
+        "categories": "Catégories"
+    },
+
+    "user_menu":{
+        "label": "Utilisateur",
+        "profil": "Votre profil",
+        "creation": "+ Nouveau profil"
+    },
+
+    "favorite_menu":{
+        "label": "Favoris",
+        "products": "Vos produits"
+    },
+
+    "update_menu":{
+        "label": "Mise à jour",
+        "new_update": "Nouvelle mise à jour"
+    }
+}

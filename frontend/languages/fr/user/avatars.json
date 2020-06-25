@@ -1,0 +1,12 @@
+{
+    "view_name": "Avatars",
+
+    "row_0":{
+        "view_title" : "Choisissez votre avatar"
+    },
+
+    "row_3":{
+        "previous_button" : "Précedent",
+        "submit_button" : "Valider"
+    }
+}

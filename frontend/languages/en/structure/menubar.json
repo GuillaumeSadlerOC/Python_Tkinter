@@ -1,0 +1,31 @@
+{
+    "main_menu":{
+        "label": ":::",
+        "Home": "Home",
+        "settings": "Settings",
+        "sign_out": "Sign out",
+        "exit": "Exit"
+    },
+
+    "search_menu":{
+        "label": "Search",
+        "research": "New research",
+        "categories": "Categories"
+    },
+
+    "user_menu":{
+        "label": "User",
+        "profil": "Your profil",
+        "creation": "+ New profil"
+    },
+
+    "favorite_menu":{
+        "label": "Favorites",
+        "products": "Your products"
+    },
+
+    "update_menu":{
+        "label": "Update",
+        "new_update": "New update"
+    }
+}

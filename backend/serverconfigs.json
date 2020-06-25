@@ -1,0 +1,11 @@
+{
+    "server_logs": {
+        "server_user": "root",
+        "server_pass": "vega3651@",
+        "server_host": "localhost"
+    },
+    "server_status": {
+        "server_conn": 2,
+        "server_db_name": "purbeurre"
+    }
+}

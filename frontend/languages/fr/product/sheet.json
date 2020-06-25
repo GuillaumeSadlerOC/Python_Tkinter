@@ -1,0 +1,27 @@
+{
+    "view_name": "Fiche produit",
+
+    "row_0":{
+        "view_title" : "Fiche produit"
+    },
+
+    "row_3":{
+        "calories_label": "Calories"
+    },
+
+    "row_4":{
+        "sugar_label": "Sucre (100g)"
+    },
+
+    "row_5":{
+        "stores_label": "Magasins"
+    },
+
+    "row_6":{
+        "author_label": "Auteur"
+    },
+
+    "row_7":{
+        "submit_button" : "Nouvelle recherche"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "view_name": "Product Sheet",
+
+    "row_0":{
+        "view_title" : "Product Sheet"
+    },
+
+    "row_3":{
+        "calories_label": "Calories"
+    },
+
+    "row_4":{
+        "sugar_label": "Sugar (100g)"
+    },
+
+    "row_5":{
+        "stores_label": "Stores"
+    },
+
+    "row_6":{
+        "author_label": "Author"
+    },
+
+    "row_7":{
+        "submit_button" : "New research"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "view_name": "Categories",
+
+    "row_0":{
+        "view_title": "Please choose your categories : "
+    },
+
+    "row_1":{
+        "paging_label": "Number of categories :",
+        "paging_prev": "previous",
+        "paging_next": "next"
+    },
+
+    "row_3":{
+        "previous_button": "Previous",
+        "submit_button": "Validate"
+    }
+}

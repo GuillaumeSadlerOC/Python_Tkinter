@@ -1,0 +1,24 @@
+{
+    "view_name": "Countries",
+
+    "row_0":{
+        "view_title": "Please choose languages for your products : "
+    },
+
+    "row_1":{
+        "english_label": "English",
+        "french_label": "French",
+        "german_label": "German"
+    },
+
+    "row_2":{
+        "italian_label": "Italian",
+        "spanish_label": "Spanish",
+        "dutch_label": "Dutch"
+    },
+
+    "row_3":{
+        "previous_button": "Previous",
+        "submit_button": "Validation"
+    }
+}

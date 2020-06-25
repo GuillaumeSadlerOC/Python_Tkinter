@@ -1,0 +1,23 @@
+{
+    "view_name": "Home",
+
+    "row_0":{
+        "view_title" : "Hello !"
+    },
+
+    "row_1":{
+        "button" : "Start a search"
+    },
+
+    "row_2":{
+        "button" : "Consult your favorites"
+    },
+
+    "row_3":{
+        "button" : "Settings"
+    },
+
+    "row_4":{
+        "button" : "Consult your profile"
+    }
+}

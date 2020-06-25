@@ -1,0 +1,14 @@
+{
+    "view_name": "Catégories",
+
+    "row_0":{
+        "paging_label": "Page",
+        "paging_prev": "<",
+        "paging_next": ">"
+    },
+
+    "row_2":{
+        "previous_button": "Retour",
+        "submit_button": "Valider"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "view_name": "Connection au serveur",
+
+    "row_0":{
+        "association_title": "Association de l'application au serveur : "
+    },
+
+    "row_1":{
+        "server_name_user_title": "Nom de l'utilisateur : "
+    },
+
+    "row_2":{
+        "server_name_pass_title": "Mot de passe : "
+    },
+
+    "row_3":{
+        "server_host_title": "Nom du serveur : "
+    },
+
+    "row_4":{
+        "previous_button": "Retour",
+        "submit_button": "Valider"
+    },
+
+    "row_5":{
+        "err": "Une erreur est survenue."
+    }
+}

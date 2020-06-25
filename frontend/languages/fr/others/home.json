@@ -1,0 +1,23 @@
+{
+    "view_name": "Accueil",
+
+    "row_0":{
+        "view_title" : "Bonjour !"
+    },
+
+    "row_1":{
+        "button" : "Lancer une recherche"
+    },
+
+    "row_2":{
+        "button" : "Consulter vos favoris"
+    },
+
+    "row_3":{
+        "button" : "Paramètres"
+    },
+
+    "row_4":{
+        "button" : "Consulter votre profil"
+    }
+}

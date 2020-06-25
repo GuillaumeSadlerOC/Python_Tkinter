@@ -1,0 +1,13 @@
+{
+    "view_name": "Engine Search",
+
+    "row_0":{
+        "view_title" : "Engine Search",
+        "view_subtitle": "Find thousands of products and compare them !"
+    },
+
+    "row_1":{
+        "view_title" : "Moteur de recherche",
+        "view_subtitle": "Retrouvez des milliers de produits et comparer les entre eux !"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "view_name": "Profil",
+
+    "row_0":{
+        "view_title" : "Profil"
+    },
+
+    "row_1":{
+        "user_avatar" : "Your avatar :",
+        "avatars_button" : "Change avatar"
+    },
+
+    "row_2":{
+        "user_name" : "Your first name :"
+    },
+
+    "row_3":{
+        "delete" : "Delete your user",
+        "delete_button" : "Delete"
+    },
+
+    "row_4":{
+        "home_button" : "Home",
+        "submit_button" : "Submit"
+    }
+}

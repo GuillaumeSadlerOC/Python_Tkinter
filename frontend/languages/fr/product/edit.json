@@ -1,0 +1,44 @@
+{
+    "view_name": "Édition",
+
+    "row_0":{
+        "view_title" : "Éditer ce produit"
+    },
+
+    "row_1":{
+        "product_name" : "Nom du produit"
+    }
+    ,
+
+    "row_2":{
+        "product_stores" : "Magasins"
+    },
+
+    "row_3":{
+        "product_nutriscore" : "Nutriscore"
+    },
+
+    "row_4":{
+        "product_img_url" : "Image du produit (URL)"
+    },
+
+    "row_5":{
+        "product_kcal" : "Kcal"
+    },
+
+    "row_6":{
+        "product_kj" : "KJ"
+    },
+
+    "row_7":{
+        "product_sugar" : "Sucre"
+    },
+
+    "row_8":{
+        "product_brand" : "Marque"
+    },
+
+    "row_9":{
+        "submit_button" : "Valider les modifications"
+    }
+}

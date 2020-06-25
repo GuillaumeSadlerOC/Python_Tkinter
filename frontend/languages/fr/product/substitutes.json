@@ -1,0 +1,17 @@
+{
+    "view_name": "Produits substituables",
+
+    "row_0":{
+        "view_title": "Produits substituables"
+    },
+
+    "row_1":{
+        "paging_label": "Page",
+        "paging_prev": "<",
+        "paging_next": ">"
+    },
+
+    "row_3":{
+        "submit_button": "Valider"
+    }
+}

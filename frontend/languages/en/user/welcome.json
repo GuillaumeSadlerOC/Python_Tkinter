@@ -1,0 +1,16 @@
+{
+    "view_name": "Welcome",
+
+    "row_0":{
+        "view_title" : "Who uses the application ?"
+    },
+
+    "row_1":{
+        "user_empty" : "Free",
+        "user_empty_button" : "Create"
+    },
+
+    "row_2":{
+        "submit_button" : "Validate"
+    }
+}

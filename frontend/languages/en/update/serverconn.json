@@ -1,0 +1,28 @@
+{
+    "view_name": "Server connection",
+
+    "row_0":{
+        "association_title": "Association of the application to the server : "
+    },
+
+    "row_1":{
+        "server_name_user_title": "User name : "
+    },
+
+    "row_2":{
+        "server_name_pass_title": "Password : "
+    },
+
+    "row_3":{
+        "server_host_title": "Server name : "
+    },
+
+    "row_4":{
+        "previous_button": "Previous",
+        "submit_button": "Validation"
+    },
+
+    "row_5":{
+        "err": "An error occurred."
+    }
+}

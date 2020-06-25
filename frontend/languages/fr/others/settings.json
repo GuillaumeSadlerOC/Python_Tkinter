@@ -1,0 +1,12 @@
+{
+    "view_name": "Paramètres",
+
+    "row_0":{
+        "view_title" : "Test"
+    },
+
+    "row_1":{
+        "delete" : "Supprimer",
+        "delete_button" : "Supprimer"
+    }
+}

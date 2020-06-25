@@ -1,0 +1,17 @@
+{
+    "view_name": "Résultats de recherche",
+
+    "row_0":{
+        "paging_label": "Page",
+        "paging_prev": "<",
+        "paging_next": ">"
+    },
+
+    "row_3":{
+        "submit_button": "Valider"
+    },
+
+    "row_empty":{
+        "search_button": "Nouvelle recherche"
+    }
+}

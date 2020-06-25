@@ -1,0 +1,24 @@
+{
+    "view_name": "Pays",
+
+    "row_0":{
+        "view_title": "Merci de choisir parmis les langages disponibles : "
+    },
+
+    "row_1":{
+        "english_label": "Anglais",
+        "french_label": "Français",
+        "german_label": "Allemand"
+    },
+
+    "row_2":{
+        "italian_label": "Italien",
+        "spanish_label": "Espagnol",
+        "dutch_label": "Néerlandais"
+    },
+
+    "row_3":{
+        "previous_button": "Retour",
+        "submit_button": "Valider"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "view_name": "New user",
+
+    "row_0":{
+        "view_title" : "New user"
+    },
+
+    "row_1":{
+        "user_name" : "Your first name :"
+    },
+
+    "row_2":{
+        "user_avatar" : "Your avatar :",
+        "avatars_button" : "Change avatar"
+    },
+
+    "row_3":{
+        "previous_button" : "Previous",
+        "submit_button" : "Submit"
+    }
+}
